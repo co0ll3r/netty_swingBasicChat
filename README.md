@@ -1,1 +1,1 @@
-Basic client-server chat based on netty(4.1.31) and swing UI. Made in IDEA and Maven.
+Basic client-server chat based on Java, netty(4.1.31) and swing UI. Made in IDEA and Maven.
